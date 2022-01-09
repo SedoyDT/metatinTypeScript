@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5aed4ad7-7b01-4ea4-ab5f-8f8b9f4324d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23KDzzBT8qIgkYMIZJkP4Ame7qS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="17.3.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="17.0.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 5" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/opt/homebrew/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Chapter 1/3app/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter 5" />
+      <recent name="$PROJECT_DIR$/Chapter 4/3 работа с модулями" />
+      <recent name="$PROJECT_DIR$/Chapter 4" />
+      <recent name="$PROJECT_DIR$/Chapter 4/2 Создание и подключение модулей" />
+      <recent name="$PROJECT_DIR$/Chapter 3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.ts" type="NodeJSConfigurationType" path-to-node="/opt/homebrew/bin/node" node-parameters="--require ts-node/register." path-to-js-file="$PROJECT_DIR$/Chapter 1/3app/app.ts" working-dir="$PROJECT_DIR$/Chapter 1/3app">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aed4ad7-7b01-4ea4-ab5f-8f8b9f4324d2" name="Changes" comment="" />
+      <created>1641474151051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641474151051</updated>
+      <workItem from="1641474152474" duration="48483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter 2/6 union/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 2/12 кортежи/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 2/8 objects/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 2/13 перечисления enum/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/1 Классы/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 2/5 тип функции и стрелочные функции/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 2/11 массивы/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/2 Наследование/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/3 абстрактные классы/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/4 модификаторы доступа/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/5 методы доступа get и set/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/7 интерфейсы/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/8 Преобразование типов/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 3/9 обобщения/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 4/1 Модули и пространства имен/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 4/1 Модули и пространства имен/app.js" />
+        <option value="$PROJECT_DIR$/Chapter 4/2 Создание и подключение модулей/message.js" />
+        <option value="$PROJECT_DIR$/Chapter 4/2 Создание и подключение модулей/main.js" />
+        <option value="$PROJECT_DIR$/Chapter 4/3 работа с модулями/devices.js" />
+        <option value="$PROJECT_DIR$/Chapter 4/3 работа с модулями/main.js" />
+        <option value="$PROJECT_DIR$/Chapter 5/1 Работа с заголовочными файлами/app.js" />
+        <option value="$PROJECT_DIR$/Chapter 5/2 Заголовочные файлы для популярных библиотек/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
