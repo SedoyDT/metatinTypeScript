@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aed4ad7-7b01-4ea4-ab5f-8f8b9f4324d2" name="Changes" comment="" />
+    <list default="true" id="5aed4ad7-7b01-4ea4-ab5f-8f8b9f4324d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter 6/1/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/2/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/3/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/4/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6/4/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -28,6 +43,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="23KDzzBT8qIgkYMIZJkP4Ame7qS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="17.3.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="17.0.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 6" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="/opt/homebrew/bin/node" />
@@ -51,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter 6" />
+      <recent name="$PROJECT_DIR$/Chapter 6/3" />
+      <recent name="$PROJECT_DIR$/Chapter 6/2" />
+      <recent name="$PROJECT_DIR$/Chapter 6/1" />
       <recent name="$PROJECT_DIR$/Chapter 5" />
-      <recent name="$PROJECT_DIR$/Chapter 4/3 работа с модулями" />
-      <recent name="$PROJECT_DIR$/Chapter 4" />
-      <recent name="$PROJECT_DIR$/Chapter 4/2 Создание и подключение модулей" />
-      <recent name="$PROJECT_DIR$/Chapter 3" />
     </key>
   </component>
   <component name="RunManager">
@@ -72,6 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1641474151051</updated>
       <workItem from="1641474152474" duration="48483000" />
+      <workItem from="1642241734439" duration="229000" />
+      <workItem from="1642242045331" duration="12417000" />
     </task>
     <servers />
   </component>
@@ -101,6 +119,8 @@
         <option value="$PROJECT_DIR$/Chapter 4/3 работа с модулями/main.js" />
         <option value="$PROJECT_DIR$/Chapter 5/1 Работа с заголовочными файлами/app.js" />
         <option value="$PROJECT_DIR$/Chapter 5/2 Заголовочные файлы для популярных библиотек/app.js" />
+        <option value="$PROJECT_DIR$/Chapter 6/1/index.js" />
+        <option value="$PROJECT_DIR$/Chapter 6/2/index.js" />
       </list>
     </option>
   </component>

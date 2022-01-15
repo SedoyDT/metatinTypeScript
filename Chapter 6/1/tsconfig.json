@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "strictNullChecks": true,
+    "outFile": "index.js",
+
+    "target": "es2015",
+    "module": "esnext",
+    "experimentalDecorators": true
+  }
+}
